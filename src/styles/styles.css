@@ -1,0 +1,27 @@
+.tour-card {
+    border: 1px solid #ccc;
+    border-radius: 12px;
+    padding: 1rem;
+    margin: 1rem auto;
+    max-width: 500px;
+    background-color: white;
+  }
+  
+  .tour-card img {
+    width: 100%;
+    border-radius: 12px;
+  }
+  
+  .tour-info {
+    text-align: center;
+  }
+  
+  .btn {
+    background: crimson;
+    color: white;
+    padding: 0.5rem 1rem;
+    margin-top: 1rem;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+  }  
